@@ -23,9 +23,9 @@ The Staged files are Committed, which prompts Git to store a permanent snapshot 
 Git allows you to see the full history of every commit.
 You can revert back to any previous commit.
 Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
-*****************************************************************************************************************
+
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*mtsk3fQ_BRemFidhkel3dA.png">
-**********************************************************************************************************************
+
 Why Git?
 Over 70% of developers use Git!
 Developers can work together from anywhere in the world.
