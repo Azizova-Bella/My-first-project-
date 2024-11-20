@@ -40,7 +40,7 @@ Developers can revert to earlier versions of a project.
 ## Git is not the same as GitHub.
 ### GitHub makes tools that use Git.
 ### GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
-### In this tutorial, we will focus on using Git with GitHub.
+
 
 ---
 
