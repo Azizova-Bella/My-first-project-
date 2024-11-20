@@ -26,12 +26,12 @@ Git does not store a separate copy of every file in every commit, but keeps trac
 *****************************************************************************************************************
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*mtsk3fQ_BRemFidhkel3dA.png">
 **********************************************************************************************************************
-# Why Git?
+Why Git?
 Over 70% of developers use Git!
 Developers can work together from anywhere in the world.
 Developers can see the full history of the project.
 Developers can revert to earlier versions of a project.
-# What is GitHub?
+ What is GitHub?
 **********************************************************************************************************************
 
 ## Git is not the same as GitHub.
