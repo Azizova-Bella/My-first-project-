@@ -1,4 +1,4 @@
-# EXAM4
+#  Git and Github INFORMATION
 What is Git?)
 Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
 
