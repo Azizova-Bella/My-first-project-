@@ -24,7 +24,7 @@ Git allows you to see the full history of every commit.
 You can revert back to any previous commit.
 Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
 *****************************************************************************************************************
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javedali.net%2Fpost%2Fintro-git-github%2F&psig=AOvVaw1FkXRxMHb8VjW_vs3WZNsq&ust=1732185669880000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDtpc_c6okDFQAAAAAdAAAAABAJ">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fgit%2F&psig=AOvVaw1FkXRxMHb8VjW_vs3WZNsq&ust=1732185669880000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDtpc_c6okDFQAAAAAdAAAAABAS">
 ### Why Git?
 Over 70% of developers use Git!
 Developers can work together from anywhere in the world.
