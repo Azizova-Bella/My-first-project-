@@ -2,12 +2,12 @@
 What is Git?)
 Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
 
-It is used for:
-*********************************************************************************************************************************8
+# It is used for:
+**********************************************************************************************************************
 Tracking code changes
 Tracking who made changes
 Coding collaboration
-What does Git do?
+## What does Git do?
 Manage projects with Repositories
 Clone a project to work on a local copy
 Control and track changes with Staging and Committing
@@ -24,16 +24,16 @@ Git allows you to see the full history of every commit.
 You can revert back to any previous commit.
 Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
 *****************************************************************************************************************
-
-Why Git?
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javedali.net%2Fpost%2Fintro-git-github%2F&psig=AOvVaw1FkXRxMHb8VjW_vs3WZNsq&ust=1732185669880000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDtpc_c6okDFQAAAAAdAAAAABAJ">
+### Why Git?
 Over 70% of developers use Git!
 Developers can work together from anywhere in the world.
 Developers can see the full history of the project.
 Developers can revert to earlier versions of a project.
-What is GitHub?
+# What is GitHub?
 *****************************************************************************************************************
 
-Git is not the same as GitHub.
-GitHub makes tools that use Git.
-GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
-In this tutorial, we will focus on using Git with GitHub.
+## Git is not the same as GitHub.
+### GitHub makes tools that use Git.
+### GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
+### In this tutorial, we will focus on using Git with GitHub.
